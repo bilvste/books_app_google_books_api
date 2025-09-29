@@ -34,7 +34,7 @@ Users can search for books, browse bestsellers, view details, and open book prev
 |-----------|------------|
 | <img src="assets/screenshots/homeD.png" width="250"/> | <img src="assets/screenshots/homeL.png" width="250"/> |
 | <img src="assets/screenshots/detailsD.png" width="250"/> | <img src="assets/screenshots/detailsL.png" width="250"/> |
-| <img src="assets/screenshots/searchD.png" width="250"/> | <img src="assets/screenshots/searchL.png" width="250"/> |
+| <img src="assets/screenshots/searchD.png" width="250"/> | <img src="assets/screenshots/SearchL.png" width="250"/> |
 | <img src="assets/screenshots/previewD.png" width="250"/> | <img src="assets/screenshots/previewL.png" width="250"/> |
 | <img src="assets/screenshots/shimmerD.png" width="250"/> | <img src="assets/screenshots/shimmerL.png" width="250"/> |
 
